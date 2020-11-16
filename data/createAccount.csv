@@ -1,0 +1,2 @@
+email,password,firstname,lastname,address,city,state,zip,phone,emailref
+info@example.com,example123!,john,doe,123 main,flagstaff,Arizona,86004,5055055050,info2@example.com
